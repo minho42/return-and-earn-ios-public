@@ -8,6 +8,10 @@ Q: What does this app provide that the official website (https://returnandearn.o
 
 A: The app enables you to watch multiple return points which isn't currently supported from the official iOS app as of this app making.
 
+## Screenshots
+
+<img src="screenshot.png" alt="screenshot" style="width:49%; max-width:340px;">
+
 ## Data source
 
 https://returnandearn.org.au/map/
