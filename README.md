@@ -26,3 +26,4 @@ If you need assistance, have questions, or would like to provide feedback to the
 
 - Email the author: gimbapapps@gmail.com
 - Open an issue on GitHub (if you have an account)
+- Leave a review on the App Store
